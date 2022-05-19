@@ -1,0 +1,23 @@
+table td{
+    border: 1px solid black;
+    width:150px;
+    height: 150px;
+    background-color: palevioletred;
+    font-size: 720%;
+    
+   
+}
+.container{
+    display: flex;
+   /* justify-content: center; */
+    flex-direction: column;
+    width: 500px;
+    align-items: center;
+    margin: auto;
+}
+h1{
+    margin: auto;
+    color: red;
+    border: 3px solid blue;
+    max-width: fit-content;
+}
